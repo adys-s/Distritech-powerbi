@@ -115,4 +115,4 @@ Toutes les mesures sont dans [`mesures_dax.md`](mesures_dax.md).
 
 ## Auteur
 
-** Yawa Silvere ADODO-DAHOUE ** · [LinkedIn](www.linkedin.com/in/silvereadodo) · [Autres projets](https://github.com/adys-s/nyc-taxi-dbt-project), (https://github.com/adys-s/bank-fraud-analytics-dashboard)
+** Yawa Silvere ADODO-DAHOUE ** · [LinkedIn](www.linkedin.com/in/silvereadodo) · [Autre projet](https://github.com/adys-s/nyc-taxi-dbt-project)
