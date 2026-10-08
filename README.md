@@ -2,8 +2,6 @@
 
 Rapport Power BI de pilotage commercial pour une entreprise de distribution fictive, **DistriTech** : suivi du chiffre d'affaires, de l'atteinte des objectifs et de la croissance, par région, magasin, produit et client.
 
-> Projet réalisé dans le cadre de mon défi « 8 projets Tech ». Données : Sample Superstore (version US), objectifs simulés.
-
 ![Accueil](captures/00_accueil.png)
 
 ---
